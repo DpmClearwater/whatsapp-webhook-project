@@ -1,0 +1,8 @@
+# Esclude le cartelle e i file di configurazione locali
+*.pyc
+__pycache__/
+.env
+.DS_Store
+venv/
+whatsapp_project_env/
+webhook.log
