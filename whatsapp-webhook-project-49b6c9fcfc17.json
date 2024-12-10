@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "whatsapp-webhook-project",
+  "private_key_id": "49b6c9fcfc172104052a7660919c904a78bddc68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyexQyvhFAniRT\nM6uFbvb32ltDoM31XD3m4Cstx5h3r7xnvDzsMrQh6Fr57ddg9ldeKX0o2lWIcROD\nhjfFGTRVLBBHGzs9ZA3vA0cC5KocWuEFNi9BYysG1+zTlYicsG+FFtyxchWfGRJo\nQEQ40+3m2UEDMaB8WIkFsQytz8eZubJ+aoXBtl6h3ATNDQypAWgzsLsqM8HySh1f\n5QqBBu0GGC0eJTlZbRFrD2LrY0qur8fcYIorYK/0RqcfY3OurFvSo63QbX7uz83L\nr2KVTKi0RKTXszkWqmmcgMyg7vG4BKR7k/NBaB+g3JICSxok9INu+yk+9BiPiFI6\nLyxWeNJVAgMBAAECggEARihmYKng+z8OtVv2vN1JHFWLkXJo811egd41aunuD4IX\nc8mFQy2NLFT7SgpJovZCkqOJbOEiRR951bYRPxtwvFg1T9Yu+6tUZNMre0Iqcjnx\nAQzzF2dlduuyztsVV85tD+pUNzZKtH71AuDcUGBSQG+/BAPie26L8h5OBxbJda3m\niQM1b70ge2SoUrUK+MXWx8NkbTqgoBNodGQm38NYwZj/VSl9MYVIiLAPetP9dnGh\n0TQD7F8wB5WggvY+VI95NHRAm5eu4fOBtq+9kfMi9BRTV87bfPUI9uBWR4tZnVQ0\nlxkTHsHur344mT6ixLQ7b/SDfgxpaNZ6e7j2HlTgkwKBgQDdmOoQU7exntr2kZ0x\n2mvtFtZtuJKM+p2xcaIRAUH/Ec/KYHL+YJNPKoK5QPrqF/WTDkwqhgfL8jmXh31o\nNqB6ekKwX3Rcp1hlkOEJnsqRQtWRQdiMYmNjCo8A0nM4CJx/STKzWSGRSg4WODz/\namvcoYf2K6+0N1u8YiOcofOd5wKBgQDOMI5NSJC45spsT14XCfD7rjvevvnp6zyU\n9DP8i7Ts3yI2VF9YPgjOc1K90dMJWYwhHGMirn5Qx3L7YowxlyRnJFKcL7eJuGKb\nUgo442voUXe/YVftLy1Iqf1kM4ym5uI2Bw+/IukBuhYQ6KyxnQZjDtucgSjrsrL+\ngvjveRruYwKBgQCAADQz+ifBkeEpTDNg+Koe6XIzLsp4ZMtyFBFpgTB+BevhGpVS\nGrb8o7GfEMnfLrfLmhak+YbHZ8Oco8bsy6EnHjgnaPvuCTwmbumOhQq9nb1/imlr\nrel67D5uWyHy3AaJ/94pevLI2d4JN7MEVpS3fRbsO4/iqZdz2bx4XZQ7QQKBgFi4\nvAK1PtDRPjjszefL903U4x4tvwvQlPjjO5tn4ioquWX3WC94QgHTzb6wEsbrKUj2\nFhJOUzwfFnLlLL4J8zgOgR2Dys4P8R40ZwGjmkMVCxnmoRcGPc4Ol2IObG9E2gG1\neCketHRxxhzwgZ7Lmnv1YLovOZRyCGNLqCIjUltRAoGBALyTHtIll9WBmz20frm3\nsXiPWV4aaMpho/ZmWZRkxNbIjjxTvF95nGVydB8BhXgWUHKCuaGrcC72oinBN6TC\nEkMEf6Nv2tfbVM+rchiZvgwJtn3AINiML/5aONpzcv3Vq4ilQxUwZM/UwO9Gv7fi\nkQy5n1mLpb57D+oOPFURVNsA\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatsapp-webhook-service@whatsapp-webhook-project.iam.gserviceaccount.com",
+  "client_id": "110040992432670357685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatsapp-webhook-service%40whatsapp-webhook-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
